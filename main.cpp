@@ -65,7 +65,7 @@ int main()
     btn3.rise(&ValidatePassword);
     btn4.rise(&ValidatePassword);
     btn5.rise(&ValidatePassword);
-    btn7.rise(&ValidatePassword);
+    btn6.rise(&ValidatePassword);
     btn7.rise(&ValidatePassword);
     btn8.rise(&ValidatePassword);
     btn9.rise(&ValidatePassword);
